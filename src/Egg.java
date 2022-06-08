@@ -16,11 +16,20 @@ public class Egg implements Comparable<Egg> {
         this.price = price;
     }
 
+    
+    /** 
+     * @return String
+     */
     @Override
     public String toString() {
         return "Egg [name=" + name + ", price=" + price + "]";
     }
 
+    
+    /** 
+     * @param egg
+     * @return int
+     */
     @Override
     public int compareTo(Egg egg) {
         // TODO Auto-generated method stub

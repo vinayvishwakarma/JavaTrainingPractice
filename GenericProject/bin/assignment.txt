@@ -1,0 +1,9 @@
+linklist which store 
+name , email , mobilenumber , facebookied
+
+Treeset
+Chemical Element(atomic number, name)
+
+hashset books
+
+with packages, exception handling, multi threading

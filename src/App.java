@@ -4,6 +4,11 @@ import java.util.LinkedList;
 import java.util.TreeSet;
 
 public class App {
+    
+    /** 
+     * @param args
+     * @throws Exception
+     */
     public static void main(String[] args) throws Exception {
 
         Egg e1, e2, e3;
